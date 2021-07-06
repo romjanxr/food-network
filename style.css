@@ -4,10 +4,11 @@ body{
 }
 .flexible-container{
     display: flex;
-    padding: 100px;
+    padding-top: 50px;
 }
 .half-width{
     width: 50%;
+    margin-left: 3%;
     
 }
 .half-width img{
@@ -36,4 +37,14 @@ body{
 .center{
     margin-top: 200px;
     margin-bottom: 150px;
+}
+.about-me{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.para2{
+    padding-right: 200px;
+    text-align: justify;
+    margin-bottom: 50px;
 }
