@@ -65,3 +65,16 @@ body{
     border-radius: 10px;
     height: 320px;
 }
+.gray{
+    color: gray;
+}
+.footer-bg{
+    background-color: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+}
+.footer-bg p{
+    color: white;
+}
